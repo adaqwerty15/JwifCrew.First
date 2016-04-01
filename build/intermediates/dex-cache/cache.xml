@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dns/IdeaProjects/ftc_app-master v4/FtcRobotController/build/intermediates/exploded-aar/Analytics-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9dafed45e330aec14abcce05bdb7bbdb2a2d7092">
+        <dex dex="/Users/dns/IdeaProjects/ftc_app-master v4/FtcRobotController/build/intermediates/pre-dexed/debug/classes-5b2d4b8a7742af1188c04ab9bb3ea2cb1a878d82.jar" />
+    </item>
+    <item
+        jar="/Users/dns/IdeaProjects/ftc_app-master v4/FtcRobotController/build/intermediates/exploded-aar/WirelessP2p-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9403be210676ed196cdcc64c7391b9ae2361c174">
+        <dex dex="/Users/dns/IdeaProjects/ftc_app-master v4/FtcRobotController/build/intermediates/pre-dexed/debug/classes-feba75ef6a23ab8cf56dca07dfffcc7f44950d8d.jar" />
+    </item>
+    <item
+        jar="/Users/dns/IdeaProjects/ftc_app-master v4/FtcRobotController/build/intermediates/exploded-aar/Hardware-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="5b3fe4efe8fad907294d5332bf26afe87764694f">
+        <dex dex="/Users/dns/IdeaProjects/ftc_app-master v4/FtcRobotController/build/intermediates/pre-dexed/debug/classes-b1b1ae5fe7cf81d6c38c3f9853d9edee7525f94c.jar" />
+    </item>
+    <item
+        jar="/Users/dns/IdeaProjects/ftc_app-master v4/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="0666d81ab6701ba68f81b170cbdb78ba434eb00b">
+        <dex dex="/Users/dns/IdeaProjects/ftc_app-master v4/FtcRobotController/build/intermediates/pre-dexed/debug/classes-5ac29fee5fd181b67c8cf94883d995e095863a19.jar" />
+    </item>
+    <item
+        jar="/Users/dns/IdeaProjects/ftc_app-master v4/FtcRobotController/build/intermediates/exploded-aar/ModernRobotics-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01999c87afe3d10ffa06f3efa66f39e61e6aba0c">
+        <dex dex="/Users/dns/IdeaProjects/ftc_app-master v4/FtcRobotController/build/intermediates/pre-dexed/debug/classes-d14ef05f50595a4469afae5ebad157066bfad021.jar" />
+    </item>
+    <item
+        jar="/Users/dns/IdeaProjects/ftc_app-master v4/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e19ebc3f612058d1ce56c27e0867f609eb73edfa">
+        <dex dex="/Users/dns/IdeaProjects/ftc_app-master v4/FtcRobotController/build/intermediates/pre-dexed/debug/classes-fd99c991de2a532c0d257dc997de02ffdc29821e.jar" />
+    </item>
+
+</items>
